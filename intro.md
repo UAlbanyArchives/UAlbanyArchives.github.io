@@ -54,6 +54,7 @@ University at Albany, SUNY
 	- more elegant than "track changes" 
 
 ---
+
 ## Version Control at a Glance
 - Used to manage changes to documents, code, large websites
 - Systematizes updates or "versioning"
@@ -63,7 +64,8 @@ University at Albany, SUNY
 	- New feature on website gets tested
 
 ---
-##Terminology a Glance Part 1
+
+## Terminology a Glance Part 1
 - Create repositories or "repos"
 	- website, code, documents, etc
 - Users can "clone" or download that repo
@@ -75,13 +77,14 @@ University at Albany, SUNY
 	
 ---
 
-##Terminology a Glance Part 2
+## Terminology a Glance Part 2
 - "repos" can be "branched" or "forked"
 - Branching allows repos to be worked on simultaneously 
 	- Once changes are agreed on, the branch can be "merged"
 - If repo diverges enough, it is forked into a new repo  
 	
 ---
+
 ## Examples of Git Repositories by Librarians
 
 * Librarians
