@@ -122,4 +122,50 @@ University at Albany, SUNY
 
 ---
 
-<p>10. Edit README.md</p>
+<p>10. Edit README.md ([Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))</p>
+
+![open repo](img/readme.png)
+
+---
+
+### CLI Path
+
+<p>11. See the Changes</p>
+
+		git status
+
+---
+
+### CLI Path
+
+<p>11. Add the Changes</p>
+
+		git add .
+
+---
+
+### CLI Path
+
+<p>12. Make a Commit</p>
+
+		git commit -m "Updated Readme!"
+
+---
+
+### CLI Path
+
+<p>13. Push to master</p>
+
+		git push origin master
+
+---
+
+### GUI Path
+
+<p>11-12. Add, Commit, Push</p>
+
+![open repo](img/addchanges.png)
+
+---
+
+<p>11. Download [Collection Policy](https://ualbanyarchives.github.io/policy.md)</p>
