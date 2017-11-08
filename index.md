@@ -3,12 +3,10 @@
 #gui-path {color:yellow}
 </style>
 
-## Git and GitHub for Libraries at NYLA 2017
+## Git and GitHub for Libraries
 
-Greg Wiedeman and Mark Wolfe
-
-M.E. Grenander Department of Special Collections & Archives
-
+Greg Wiedeman and Mark Wolfe<br/>
+M.E. Grenander Dept. of Special Collections & Archives<br/>
 University at Albany, SUNY
 
 [https://ualbanyarchives.github.io](https://ualbanyarchives.github.io/)
@@ -26,6 +24,9 @@ University at Albany, SUNY
 - Basic terminology and commands
 - Library run GitHub accounts
 
+---
+
+## What You Will Learn/Do
 **- Part 2**
 
 - Set up a GitHub account
@@ -110,6 +111,7 @@ University at Albany, SUNY
 * Libraries & Archives
 	* https://github.com/RockefellerArchiveCenter
 
+---
 
 ## Stuff to Do
 
@@ -504,8 +506,6 @@ Down arrow for CLI path
 
 Greg Wiedeman and Mark Wolfe
 
-M.E. Grenander Department of Special Collections & Archives
-
-University at Albany, SUNY
-
 ## Thanks!
+
+![new git repository](img/intro.png)
