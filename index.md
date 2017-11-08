@@ -40,30 +40,28 @@ University at Albany, SUNY
 
 ## Background about Git
 - Git most widely used version control system in the world
+- Git is free and open source 
+- Software for managing code and text
 - Created by Linus Torvalds in 2005 (creator of Linux)
-- Git is free and open source
-- GitHub Founded in 2008
 - Wide use in software community
-- Git the soft and heart of GitHub 
+- Git the heart and soul of GitHub 
 ​
 ---
 ## Background about GitHub
-- Git is free and open source
-- Founded in 2008
+- Website founded in 2008
 - Wide use in software community
-- Tends to be homes for open source projects
+- Home of most of the biggest open source projects
 - GitHub fosters open sharing 
 - Free for public use, fee for private
 - Work distributively
-
- ​
+​
 ---
 ## Why Should I Learn Git and GitHub?
-- Fosters complex collaboration projects
-- Metadata or cataloging
+- Enables complex collaboration projects
+- Metadata or cataloging changes
 - Administrative documents
 - Archival finding aid collections
-- Supports digital scholarly
+- Supports digital scholarship
 	- statistical code, text mining 
 - Collaborative writing/editing
 	- more elegant than "track changes" 
@@ -73,7 +71,7 @@ University at Albany, SUNY
 ## Version Control at a Glance
 - Used to manage changes to documents, code, large websites
 - Systematizes updates or "versioning"
-- Allows to "roll back" any change to a previous version
+- Allows to "roll back" to any previous version
 - No more files named "version 1" "version_1_mark_edits"
 - Allows for testing	
 	- New feature on website gets tested
@@ -87,7 +85,8 @@ University at Albany, SUNY
 - Add files to a staging area
 - Commit files to the repo
 - Push changes to the repo
-- Repo owners can invite 
+- Make Pull Request
+	- suggest changes to open source projects
 
 	
 ---
@@ -96,7 +95,8 @@ University at Albany, SUNY
 - "repos" can be "branched" or "forked"
 - Branching allows repos to be worked on simultaneously 
 	- Once changes are agreed on, the branch can be "merged"
-- If repo diverges enough, it is forked into a new repo  
+- If repo diverges enough, it is forked into a new repo 
+	- If you want to edit another's repo, fork it!
 	
 ---
 
@@ -107,17 +107,20 @@ University at Albany, SUNY
 	* https://github.com/saverkamp
 	* https://github.com/anarchivist
 	* https://github.com/rgilmour70
-	*
 * Libraries & Archives
 	* https://github.com/RockefellerArchiveCenter
 
 ---
 
-## Stuff to Do
+## Let's try out Git and Github!
 
-* Make a [Github Account](https://github.com/login)
-* Download and install [Git](https://git-scm.com/) or [Github Desktop](https://desktop.github.com//)
-* Download and install markdown editor (optional)
+---
+
+## Stuff you need to do
+
+1. Make a [Github Account](https://github.com/login)
+2. Download and install [Git](https://git-scm.com/) or [Github Desktop](https://desktop.github.com//)
+3. (Optional) Download and install markdown editor
 	* [Typora](https://typora.io/)
 	* [Atom](https://atom.io/)
 	* [Markdown Pad](http://markdownpad.com/) (Windows)
