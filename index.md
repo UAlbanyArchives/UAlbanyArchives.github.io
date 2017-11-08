@@ -274,6 +274,14 @@ University at Albany, SUNY
 
 ---
 
+### GUI Path
+
+<p>16. Merge with master</p>
+
+![Make a new Branch](img/merge.png)
+
+---
+
 ## Use Case: Collecting Policy
 
 * [UAlbany Archives Collection Development Policy](http://library.albany.edu/archive/policy)
