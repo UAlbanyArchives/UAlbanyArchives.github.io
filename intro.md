@@ -6,21 +6,29 @@ M.E. Grenander Department of Special Collections & Archives
 
 University at Albany, SUNY
 
-[add image]
+[add image] 
+[https://ualbanyarchives.github.io](https://ualbanyarchives.github.io/)
 
 ---
 
 ## What You Will Learn/Do
-- What's the difference between Git and GitHub
-- Basic terminology and commands
+**- Part 1**
+
+- Fundamentals about Git & GitHub
+- Why Librarians Should Care
 - Overview of Version Control
+- Basic terminology and commands
+- Library run GitHub accounts
+
+**- Part 2**
+
 - Set up a GitHub account
 - Install GUI version of Git
 - How to contribute to existing GitHub project
 - Applications to the Library field
 - How to share code
 
-  ​
+  
 ---
 
 ## Background about Git
@@ -95,4 +103,3 @@ University at Albany, SUNY
 	*
 * Libraries & Archives
 	* https://github.com/RockefellerArchiveCenter
-* 
