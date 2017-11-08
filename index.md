@@ -397,4 +397,17 @@ Down arrow for CLI path
 * [Reveal.js](http://lab.hakim.se/reveal-js/#/)
 * [Reveal-md](https://github.com/webpro/reveal-md)
 * These slides were written in Markdown and are hosted by Github Pages!
-	* [See the Markdown](https://ualbanyarchives.github.io/index.md/)
+	* [See the Markdown](https://www.github.com/ualbanyarchives/ualbanyarchives.github.io)
+
+---
+
+
+## Git and GitHub for Libraries
+
+Greg Wiedeman and Mark Wolfe
+
+M.E. Grenander Department of Special Collections & Archives
+
+University at Albany, SUNY
+
+## Thanks!
