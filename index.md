@@ -248,10 +248,10 @@ University at Albany, SUNY
 
 <p>15. Checkout a Branch</p>
 
-		git checkout -b myNewBranch
+		git checkout -b testing
 		git add .
 		git commit -m "the changes to my branch"
-		git push origin myNewBranch
+		git push origin testing
 
 ---
 
@@ -261,6 +261,16 @@ University at Albany, SUNY
 
 ![Make a new Branch](img/branch.png)
 
+
+---
+
+### CLI Path
+
+<p>16. Merge with master</p>
+
+		git checkout master
+		git merge testing
+		git push origin master
 
 ---
 
