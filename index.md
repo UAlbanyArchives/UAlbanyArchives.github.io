@@ -250,7 +250,7 @@ University at Albany, SUNY
 		git checkout -b myNewBranch
 		git add .
 		git commit -m "the changes to my branch"
-		git push origin master
+		git push origin myNewBranch
 
 ---
 
