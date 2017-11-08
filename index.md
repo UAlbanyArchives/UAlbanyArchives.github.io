@@ -69,6 +69,14 @@ University at Albany, SUNY
 
 ---
 
+### GUI Path
+<p>5. Tell Git who you are</p>
+
+		git config --global user.email "you@example.com"
+		git config --global user.name "Your Name"
+
+---
+
 ### CLI Path
 <p>6. Clone your repo</p>
 * Open Terminal, Powershell or cmd.exe
@@ -231,6 +239,25 @@ University at Albany, SUNY
 	* Combining a "branch" with the "master" 
 * Fork
 	* Your personal copy of a repo
+	* For pull requests when you are not a collaborator
+
+---
+
+### CLI Path
+
+<p>15. Checkout a Branch and make a Pull Request</p>
+
+		git checkout -b myNewBranch
+		git add .
+		git commit -m "the changes to my branch"
+		git push origin master
+
+---
+
+### GUI Path
+
+<p>15. Checkout a Branch and make a Pull Request</p>
+
 
 ---
 
