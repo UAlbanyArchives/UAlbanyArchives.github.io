@@ -302,6 +302,54 @@ Down arrow for CLI path
 
 ---
 
+<p>19. Fork the [Repo](https://github.com/UAlbanyArchives/UAlbanyArchives.github.io)!</p>
+
+![Make a fork](img/fork.png)
+
+---
+
+### GUI Path
+
+<p>19. Clone the fork!</p>
+
+![Make a fork](img/clonefork.png)
+
+----
+
+### CLI Path
+
+<p>19. Clone the fork!</p>
+
+		git clone [URL]
+		cd [repo name]
+
+---
+
+### GUI Path
+
+<p>20. Add a new file with your name in it and commit! </p>
+(don't forget to push!)
+
+![Make a fork](img/commitname.png)
+
+----
+
+### CLI Path
+
+<p>20. Add a new file with your name in it and commit! </p>
+
+		git add .
+		git commit -m "Added my name!"
+		git push origin master
+
+---
+
+<p>21. Make a Pull Request!</p>
+
+![Make a pull request](img/pullrequest.png)
+
+---
+
 ## Use Case: Collecting Policy
 
 * [UAlbany Archives Collection Development Policy](http://library.albany.edu/archive/policy)
