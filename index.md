@@ -11,6 +11,18 @@ M.E. Grenander Department of Special Collections & Archives
 
 University at Albany, SUNY
 
+---
+
+## Stuff to Do
+
+* Make a [Github Account](https://github.com/login)
+* Download and install [Git](https://git-scm.com/) or [Github Desktop](https://desktop.github.com//)
+* Download and install markdown editor (optional)
+	* [Typora](https://typora.io/)
+	* [Atom](https://atom.io/)
+	* [Markdown Pad](http://markdownpad.com/) (Windows)
+	* [Mou](http://25.io/mou/) (Mac/Linux)
+	* [MacDown](https://macdown.uranusjr.com/) (Mac/Linux)
 
 ---
 
@@ -160,9 +172,15 @@ University at Albany, SUNY
 
 ---
 
+<p>13. Make a bad edit<p>
+
+![This is a mistaken commit.](img/mistake1.png)
+
+---
+
 ### CLI Path
 
-<p>13. Make a bad commit<p>
+<p>14. Commit your mistake<p>
 
 		git add .
 		git commit -m "this is a mistake"
@@ -172,7 +190,7 @@ University at Albany, SUNY
 
 ### GUI Path
 
-<p>13. Make a bad commit<p>
+<p>14. Commit your mistake<p>
 
 ![A mistake commit.](img/mistake.png)
 
