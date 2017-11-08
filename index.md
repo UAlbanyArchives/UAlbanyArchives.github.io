@@ -153,6 +153,7 @@ University at Albany, SUNY
 <p>11. See the Changes</p>
 
 		git status
+		git diff
 
 ---
 
@@ -245,7 +246,7 @@ University at Albany, SUNY
 
 ### CLI Path
 
-<p>15. Checkout a Branch and make a Pull Request</p>
+<p>15. Checkout a Branch</p>
 
 		git checkout -b myNewBranch
 		git add .
@@ -256,7 +257,9 @@ University at Albany, SUNY
 
 ### GUI Path
 
-<p>15. Checkout a Branch and make a Pull Request</p>
+<p>15. Checkout a Branch</p>
+
+![Make a new Branch](img/branch.png)
 
 
 ---
