@@ -26,6 +26,18 @@ University at Albany, SUNY
 
 ---
 
+## How these slides work
+
+### GUI Path
+
+Down arrow for CLI path
+
+----
+
+### CLI Path
+
+---
+
 <p>1. [Create a Github Account](https://github.com/join?source=login) or [Login](https://github.com/login) to your existing account.</p>
 
 ![Join Github](img/join.png)
@@ -53,29 +65,36 @@ University at Albany, SUNY
 
 ---
 
-### CLI Path
-<p>5. [Download and Install Git](https://git-scm.com/)</p>
-
-
-![new git repository](img/downloadgit.png)
-
----
-
 ### GUI Path
 <p>5. [Download and Install Github Desktop](https://desktop.github.com//)</p>
 
 
 ![new git repository](img/githubdesktop.png)
 
----
+----
 
-### GUI Path
+### CLI Path
+<p>5. [Download and Install Git](https://git-scm.com/)</p>
+
+
+![new git repository](img/downloadgit.png)
+
+----
+
+### CLI Path
 <p>5. Tell Git who you are</p>
 
 		git config --global user.email "you@example.com"
 		git config --global user.name "Your Name"
 
 ---
+
+### GUI Path
+<p>6. Clone your repo</p>
+
+![Clone repo in Github Desktop](img/clonedesktop.png)
+
+----
 
 ### CLI Path
 <p>6. Clone your repo</p>
@@ -91,14 +110,15 @@ University at Albany, SUNY
 
 ![Clone repo](img/clone.png)
 
+
 ---
 
 ### GUI Path
-<p>6. Clone your repo</p>
+<p>7. Open your repo</p>
 
-![Clone repo in Github Desktop](img/clonedesktop.png)
+![open repo](img/openrepo.png)
 
----
+----
 
 ### CLI Path
 <p>7. Open your repo</p>
@@ -109,15 +129,6 @@ University at Albany, SUNY
 * Mac OSX/Linux:
 
 		open .
-
-
----
-
-### GUI Path
-<p>7. Open your repo</p>
-
-![open repo](img/openrepo.png)
-
 
 ---
 
@@ -148,6 +159,14 @@ University at Albany, SUNY
 
 ---
 
+### GUI Path
+
+<p>11. See the Changes</p>
+
+![Changes you made](img/changes.png)
+
+----
+
 ### CLI Path
 
 <p>11. See the Changes</p>
@@ -157,70 +176,72 @@ University at Albany, SUNY
 
 ---
 
+### GUI Path
+
+<p>12. Add, Commit, Push</p>
+
+![open repo](img/addchanges.png)
+
+----
+
 ### CLI Path
 
-<p>11. Add, Commit, Push</p>
+<p>12. Add, Commit, Push</p>
 
 		git add .
 		git commit -m "Updated Readme!"
 		git push origin master
 
----
-
-### GUI Path
-
-<p>11. Add, Commit, Push</p>
-
-![open repo](img/addchanges.png)
 
 ---
 
-<p>12. Take a look at your commit!<p>
+<p>13. Take a look at your commit!<p>
 
 ![Look at your commit!](img/commit.png)
 
 ---
 
-<p>13. Make a bad edit<p>
+<p>14. Make a bad edit<p>
 
 ![This is a mistaken commit.](img/mistake1.png)
 
+
 ---
+
+### GUI Path
+
+<p>15. Commit your mistake<p>
+
+![A mistake commit.](img/mistake.png)
+
+----
 
 ### CLI Path
 
-<p>14. Commit your mistake<p>
+<p>15. Commit your mistake<p>
 
 		git add .
 		git commit -m "this is a mistake"
 		git push origin master
 
+
 ---
 
 ### GUI Path
 
-<p>14. Commit your mistake<p>
+<p>16. Revert!<p>
 
-![A mistake commit.](img/mistake.png)
+![A mistake commit.](img/revert.png)
 
----
+----
 
 ### CLI Path
 
-<p>14. Revert!<p>
+<p>16. Revert!<p>
 
 		git revert commitID
 		:quit
 		git push origin master
-
-
----
-
-### GUI Path
-
-<p>14. Revert!<p>
-
-![A mistake commit.](img/revert.png)
 
 ---
 
@@ -244,9 +265,17 @@ University at Albany, SUNY
 
 ---
 
+### GUI Path
+
+<p>17. Checkout a Branch</p>
+
+![Make a new Branch](img/branch.png)
+
+----
+
 ### CLI Path
 
-<p>15. Checkout a Branch</p>
+<p>17. Checkout a Branch</p>
 
 		git checkout -b testing
 		git add .
@@ -257,28 +286,19 @@ University at Albany, SUNY
 
 ### GUI Path
 
-<p>15. Checkout a Branch</p>
+<p>18. Merge with master</p>
 
-![Make a new Branch](img/branch.png)
+![Make a new Branch](img/merge.png)
 
-
----
+----
 
 ### CLI Path
 
-<p>16. Merge with master</p>
+<p>18. Merge with master</p>
 
 		git checkout master
 		git merge testing
 		git push origin master
-
----
-
-### GUI Path
-
-<p>16. Merge with master</p>
-
-![Make a new Branch](img/merge.png)
 
 ---
 
