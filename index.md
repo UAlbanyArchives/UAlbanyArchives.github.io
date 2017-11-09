@@ -44,7 +44,7 @@ University at Albany, SUNY
 - Git is free and open source
 - GitHub Founded in 2008
 - Wide use in software community
-- Git the soft and heart of GitHub 
+- Git is the soft and heart of GitHub 
 ​
 ---
 ## Background about GitHub
