@@ -1,6 +1,7 @@
 <style>
-#cli-path {color:red}
-#gui-path {color:yellow}
+#cli-track {color:red}
+#command-line-track {color:red}
+#gui-track {color:yellow}
 </style>
 
 ## Git and GitHub for Libraries
@@ -131,13 +132,13 @@ University at Albany, SUNY
 
 ## How these slides work
 
-### GUI Path
+### GUI track
 
-Down arrow for CLI path
+Down arrow for CLI track
 
 ----
 
-### CLI Path
+### Command Line track
 
 ---
 
@@ -168,7 +169,7 @@ Down arrow for CLI path
 
 ---
 
-### GUI Path
+### GUI track
 <p>5. [Download and Install Github Desktop](https://desktop.github.com//)</p>
 
 
@@ -176,7 +177,7 @@ Down arrow for CLI path
 
 ----
 
-### CLI Path
+### CLI track
 <p>5. [Download and Install Git](https://git-scm.com/)</p>
 
 
@@ -184,7 +185,7 @@ Down arrow for CLI path
 
 ----
 
-### CLI Path
+### CLI track
 <p>5. Tell Git who you are</p>
 
 		git config --global user.email "you@example.com"
@@ -192,14 +193,14 @@ Down arrow for CLI path
 
 ---
 
-### GUI Path
+### GUI track
 <p>6. Clone your repo</p>
 
 ![Clone repo in Github Desktop](img/clonedesktop.png)
 
 ----
 
-### CLI Path
+### CLI track
 <p>6. Clone your repo</p>
 * Open Terminal, Powershell or cmd.exe
 
@@ -216,14 +217,14 @@ Down arrow for CLI path
 
 ---
 
-### GUI Path
+### GUI track
 <p>7. Open your repo</p>
 
 ![open repo](img/openrepo.png)
 
 ----
 
-### CLI Path
+### CLI track
 <p>7. Open your repo</p>
 * Windows:
 
@@ -262,7 +263,7 @@ Down arrow for CLI path
 
 ---
 
-### GUI Path
+### GUI track
 
 <p>11. See the Changes</p>
 
@@ -270,7 +271,7 @@ Down arrow for CLI path
 
 ----
 
-### CLI Path
+### CLI track
 
 <p>11. See the Changes</p>
 
@@ -279,7 +280,7 @@ Down arrow for CLI path
 
 ---
 
-### GUI Path
+### GUI track
 
 <p>12. Add, Commit, Push</p>
 
@@ -287,7 +288,7 @@ Down arrow for CLI path
 
 ----
 
-### CLI Path
+### CLI track
 
 <p>12. Add, Commit, Push</p>
 
@@ -311,7 +312,7 @@ Down arrow for CLI path
 
 ---
 
-### GUI Path
+### GUI track
 
 <p>15. Commit your mistake<p>
 
@@ -319,7 +320,7 @@ Down arrow for CLI path
 
 ----
 
-### CLI Path
+### CLI track
 
 <p>15. Commit your mistake<p>
 
@@ -330,7 +331,7 @@ Down arrow for CLI path
 
 ---
 
-### GUI Path
+### GUI track
 
 <p>16. Revert!<p>
 
@@ -338,7 +339,7 @@ Down arrow for CLI path
 
 ----
 
-### CLI Path
+### CLI track
 
 <p>16. Revert!<p>
 
@@ -368,7 +369,7 @@ Down arrow for CLI path
 
 ---
 
-### GUI Path
+### GUI track
 
 <p>17. Checkout a Branch</p>
 
@@ -376,7 +377,7 @@ Down arrow for CLI path
 
 ----
 
-### CLI Path
+### CLI track
 
 <p>17. Checkout a Branch</p>
 
@@ -387,7 +388,7 @@ Down arrow for CLI path
 
 ---
 
-### GUI Path
+### GUI track
 
 <p>18. Merge with master</p>
 
@@ -395,7 +396,7 @@ Down arrow for CLI path
 
 ----
 
-### CLI Path
+### CLI track
 
 <p>18. Merge with master</p>
 
@@ -411,7 +412,7 @@ Down arrow for CLI path
 
 ---
 
-### GUI Path
+### GUI track
 
 <p>19. Clone the fork!</p>
 
@@ -419,7 +420,7 @@ Down arrow for CLI path
 
 ----
 
-### CLI Path
+### CLI track
 
 <p>19. Clone the fork!</p>
 
@@ -428,7 +429,7 @@ Down arrow for CLI path
 
 ---
 
-### GUI Path
+### GUI track
 
 <p>20. Add a new file with your name in it and commit! </p>
 (don't forget to push!)
@@ -437,7 +438,7 @@ Down arrow for CLI path
 
 ----
 
-### CLI Path
+### CLI track
 
 <p>20. Add a new file with your name in it and commit! </p>
 
@@ -464,14 +465,9 @@ Down arrow for CLI path
 
 ## Use Case: Collecting Policy
 
-* Converting markdown with [pandoc](https://pandoc.org/)
+* Programs can convert Markdown to HTML, DOCX, PDF
 
-
-		pandoc policy.md -s -o policy.html
-		pandoc policy.md -s -o policy.docx
-		pandoc policy.md -s -o policy.pdf
-
-
+![Make a pull request](img/convert.png)
 
 ---
 
@@ -490,8 +486,9 @@ Down arrow for CLI path
 	* [www.gregwiedeman.com](http://www.gregwiedeman.com/)
 	* [gwiedeman.github.io](http://gwiedeman.github.io)
 	* [https://github.com/gwiedeman/gwiedeman.github.io](https://github.com/gwiedeman/gwiedeman.github.io)
-	* [StatidAid](http://hillelarnold.com/staticAid/)
+	* [StaticAid](http://hillelarnold.com/staticAid/)
 	* [Boston College Libraries](https://github.com/BCLibraries/bc-libraries-site)
+	* [Boston College Libraries](https://library.bc.edu/news/)
 
 ---
 
